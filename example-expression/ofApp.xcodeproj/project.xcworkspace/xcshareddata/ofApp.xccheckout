@@ -12,30 +12,42 @@
 	<dict>
 		<key>39FBDB24-586B-4E77-BF8F-2CC36735E773</key>
 		<string>ssh://github.com/kylemcdonald/ofxFaceTracker.git</string>
+		<key>75A2292E7C040F7BCB8D645127C9E588F88C51BC</key>
+		<string>https://github.com/husseiniso/third.git</string>
 		<key>9C762DC6-86FD-4755-841F-7620D535EE03</key>
 		<string>ssh://github.com/kylemcdonald/openFrameworks.git</string>
 		<key>FD6CEF56-A717-4C53-ACB6-67EA2F3D648F</key>
 		<string>ssh://github.com/kylemcdonald/ofxCv.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>addons/ofxFaceTracker/example-expression/ofApp.xcodeproj/project.xcworkspace</string>
+	<string>example-expression/ofApp.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>39FBDB24-586B-4E77-BF8F-2CC36735E773</key>
+		<string>../../../../../../..</string>
+		<key>75A2292E7C040F7BCB8D645127C9E588F88C51BC</key>
 		<string>../../..</string>
 		<key>9C762DC6-86FD-4755-841F-7620D535EE03</key>
-		<string>../../../../..</string>
+		<string>../../../../openFrameworks</string>
 		<key>FD6CEF56-A717-4C53-ACB6-67EA2F3D648F</key>
-		<string>../../../../ofxCv</string>
+		<string>../../../../../../../../ofxCv</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>ssh://github.com/kylemcdonald/ofxFaceTracker.git</string>
+	<string>https://github.com/husseiniso/third.git</string>
 	<key>IDESourceControlProjectVersion</key>
-	<integer>110</integer>
+	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>9C762DC6-86FD-4755-841F-7620D535EE03</string>
+	<string>75A2292E7C040F7BCB8D645127C9E588F88C51BC</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>39FBDB24-586B-4E77-BF8F-2CC36735E773</string>
+			<key>IDESourceControlWCCName</key>
+			<string>..</string>
+		</dict>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
@@ -48,17 +60,17 @@
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>39FBDB24-586B-4E77-BF8F-2CC36735E773</string>
+			<string>9C762DC6-86FD-4755-841F-7620D535EE03</string>
 			<key>IDESourceControlWCCName</key>
-			<string>ofxFaceTracker</string>
+			<string>openFrameworks</string>
 		</dict>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>9C762DC6-86FD-4755-841F-7620D535EE03</string>
+			<string>75A2292E7C040F7BCB8D645127C9E588F88C51BC</string>
 			<key>IDESourceControlWCCName</key>
-			<string>openFrameworks</string>
+			<string>third</string>
 		</dict>
 	</array>
 </dict>
